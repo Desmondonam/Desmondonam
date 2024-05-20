@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Desmondonam
+- 👋 Hi, I’m Desmond Onam
 - 👀 I’m interested in Machine Learning Data Engineering research fields and collaborations
 - 🌱 I’m currently learning the implementation of machine learning in developing intelligent devices in Software Engineering and IOT devices
 - 💞️ I’m looking to collaborate on tasks that are geared to making improvements in IoT and Software Engineering. 
